@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yulian.github.io/"/>
-  <updated>2019-01-12T10:17:24.032Z</updated>
+  <updated>2019-01-12T08:08:15.579Z</updated>
   <id>http://yulian.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试文章</title>
+    <link href="http://yulian.github.io/2017/10/28/test/"/>
+    <id>http://yulian.github.io/2017/10/28/test/</id>
+    <published>2017-10-28T00:39:58.000Z</published>
+    <updated>2019-01-12T08:08:15.579Z</updated>
+    
+    <content type="html"><![CDATA[<p>反反复复姐姐家</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;反反复复姐姐家&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="Testing" scheme="http://yulian.github.io/categories/Testing/"/>
+    
+    
+      <category term="Testing" scheme="http://yulian.github.io/tags/Testing/"/>
+    
+      <category term="Another Tag" scheme="http://yulian.github.io/tags/Another-Tag/"/>
+    
+  </entry>
   
   <entry>
     <title>yulian&#39;s blog</title>
@@ -41,19 +69,18 @@
   
   <entry>
     <title>测试文章</title>
-    <link href="http://yulian.github.io/2017/10/28/test/"/>
-    <id>http://yulian.github.io/2017/10/28/test/</id>
+    <link href="http://yulian.github.io/2017/10/28/test2/"/>
+    <id>http://yulian.github.io/2017/10/28/test2/</id>
     <published>2017-10-28T00:39:58.000Z</published>
-    <updated>2019-01-12T08:08:15.579Z</updated>
+    <updated>2019-01-12T11:53:52.298Z</updated>
     
-    <content type="html"><![CDATA[<p>反反复复姐姐家</p>]]></content>
+    <content type="html"><![CDATA[<p>Deep Neural Networks, especially Convolutional Neural Networks (CNN), allows computational models that are composed of multiple processing layers to learn representations of data with multiple levels of abstraction. These methods have dramatically improved the state-of-the-arts in visual object recognition, object detection, text recognition and many other domains such as drug discovery and genomics.</p><p>In addition, many solid papers have been published in this topic, and some high quality open source CNN software packages have been made available. There are also well-written CNN tutorials or CNN software manuals. However, it might lack a recent and comprehensive summary about the details of how to implement an excellent deep convolutional neural networks from scratch. Thus, we collected and concluded many implementation details for DCNNs. Here we will introduce these extensive implementation details, i.e., tricks or tips, for building and training your own deep networks.</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;反反复复姐姐家&lt;/p&gt;
-
+        &lt;p&gt;Deep Neural Networks, especially Convolutional Neural Networks (CNN), allows computational models that are composed of multiple processin
       
     
     </summary>
