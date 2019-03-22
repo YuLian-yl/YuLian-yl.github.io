@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>yulian&#39;s blog</title>
   
-  <subtitle>description:这里只是作为个人网站，记录个人学习过程经验，不作其他用途，欢迎讨论</subtitle>
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
