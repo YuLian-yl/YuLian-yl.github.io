@@ -67,7 +67,7 @@
     <link href="http://yoursite.com/2017/05/22/index/"/>
     <id>http://yoursite.com/2017/05/22/index/</id>
     <published>2017-05-22T14:53:53.000Z</published>
-    <updated>2019-03-22T08:19:41.136Z</updated>
+    <updated>2019-03-22T10:57:38.991Z</updated>
     
     <summary type="html">
     
@@ -75,10 +75,12 @@
     
     </summary>
     
-      <category term="ǰ��" scheme="http://yoursite.com/categories/j%EF%BF%BD%EF%BF%BD/"/>
+      <category term="����ѧϰ�㷨" scheme="http://yoursite.com/categories/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%D1%A7%CF%B0%EF%BF%BD%E3%B7%A8/"/>
     
     
-      <category term="canvas" scheme="http://yoursite.com/tags/canvas/"/>
+      <category term="����ѧϰ" scheme="http://yoursite.com/tags/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%D1%A7%CF%B0/"/>
+    
+      <category term="�߼��ع�" scheme="http://yoursite.com/tags/%EF%BF%BD%DF%BC%EF%BF%BD%EF%BF%BD%D8%B9%EF%BF%BD/"/>
     
   </entry>
   
